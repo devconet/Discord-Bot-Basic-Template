@@ -1,0 +1,16 @@
+{"data": [
+    {
+        "discord": {
+            "token": "YOURTOKEN"
+        },
+        "logging": {
+            "print_level": 3,
+            "file": "log.txt",
+            "file_level": 3
+        },
+        "owners": ["YOUR_DISCORD_ID"],
+        "prefix": "!",
+        "description": "Basic Discord Bot",
+        "skip_cogs": [""],
+    }
+]}       
